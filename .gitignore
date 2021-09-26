@@ -2,4 +2,4 @@ env/
 __pycache__/
 resources/split/
 *.png
-*.txt
+api_key.txt
